@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Data Science Enthusiast"],
+        strings: ["Quantitative Analyst","Data Analyst","Data Science Enthusiast"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
